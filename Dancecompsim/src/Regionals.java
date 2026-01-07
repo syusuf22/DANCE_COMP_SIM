@@ -7,6 +7,7 @@ import java.util.ArrayList;
  * extends from competition
  *
  */
+
 public class Regionals extends Competition{
 private ArrayList<Dancer> compdancers = new ArrayList<Dancer>();
 
